@@ -1,4 +1,4 @@
-
+// Copyright 2019 Jon Andrew
 import std.algorithm;
 import std.array;
 import std.ascii;
